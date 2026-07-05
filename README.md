@@ -1,4 +1,4 @@
-**Hand Gesture Recognition using MediaPipe + MLP**
+### Hand Gesture Recognition using MediaPipe + MLP
 
 Small project to recognize hand gestures in real-time using a webcam. Instead of training a CNN on raw images, I used MediaPipe to get hand landmarks first, then trained a simple MLP on those. Worked well even with a small dataset.
 
